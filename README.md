@@ -1,7 +1,8 @@
 # oliver-aung.github.io
 Practice makes Perfect
 
- [![An image of @pyaesone_chantharaung's Instagram badges, which is a link to view their full Instagram profile](https://www.instagram.com/pyaesone_chantharaung/)]([https://www.instagram.com/pyaesone_chantharaung/](https://www.instagram.com/pyaesone_chantharaung/))
+[![An image of @pyaesone_chantharaung's Instagram badges, which is a link to view their full Instagram profile](https://github.com/user-attachments/assets/7eca47cf-6115-4f51-bcda-3d77dbef93a2)](https://www.instagram.com/pyaesone_chantharaung/)
+
 <h1 align="center">Hi 👋, I'm Oliver</h1>
 <h3 align="center">A passionate Web Developer and an Open-source Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47n1tvhzxop21h8qva58vgoh2wh74oij2nto6eduiz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
