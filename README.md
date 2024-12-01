@@ -31,12 +31,13 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Threads_Logo.svg" alt="Threads" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/MgPyaeSoneChanTharAung" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Facebook_icon_2013.svg/1200px-Facebook_icon_2013.svg.png" alt="Facebook" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Facebook_icon_2013.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/pyae-sone-chan-thar-aung-269000265/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pyae-sone-chan-thar-aung" height="30" width="40" />
   </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
