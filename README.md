@@ -27,8 +27,8 @@
   <a href="https://www.instagram.com/pyaesone_chantharaung/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pyaesone_chantharaung" height="30" width="40" />
   </a>
- <a href="https://www.threads.net/@pyaesone_chantharaung?xmt=AQGzYs0nxuByD4gBO-kfWRPw-iCP1Rb4-XvHcPRVOTho6qY" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Threads_Logo.svg/1200px-Threads_Logo.svg.png" alt="Threads" height="30" width="40" />
+<a href="https://www.threads.net/@pyaesone_chantharaung" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Threads_Logo_2023.svg" alt="Threads" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/MgPyaeSoneChanTharAung" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="30" width="40" />
